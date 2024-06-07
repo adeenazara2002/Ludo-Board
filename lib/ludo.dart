@@ -9,7 +9,7 @@ class LudoBoard extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.blue,
         title: const Text(
-          'Ludo Board',
+          'Ludo',
           style: TextStyle(color: Colors.white),
         ),
         centerTitle: true,
@@ -1275,6 +1275,1153 @@ class LudoBoard extends StatelessWidget {
                   Container(
                   decoration: BoxDecoration(
                     color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+              ],
+            ),
+
+
+            Row(
+              children: [
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.grey[700],
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    border: Border.all(color: Colors.grey),
+                 
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red,
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red,
+                    border: Border.all(color: Colors.grey),
+                
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+              ],
+            ),
+
+
+            Row(
+              children: [
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    border: Border.all(color: Colors.grey),
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                 
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+              ],
+            ),
+
+            Row(
+              children: [
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    border: Border.all(color: Colors.grey),
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                 
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    border: Border.all(color: Colors.grey),
+                
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+              ],
+            ),
+
+
+            Row(
+              children: [
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    border: Border.all(color: Colors.grey),
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                 
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    border: Border.all(color: Colors.grey),
+                
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+              ],
+            ),
+
+
+            Row(
+              children: [
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    border: Border.all(color: Colors.grey),
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                 
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    border: Border.all(color: Colors.grey),
+                
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.grey[700],
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+              ],
+            ),
+
+
+            Row(
+              children: [
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    border: Border.all(color: Colors.grey),
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                  
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                 
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[800],
+                    border: Border.all(color: Colors.grey),
+                
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.blue,
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+              ],
+            ),
+
+               Row(
+              children: [
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    border: Border.all(color: Colors.grey),
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+                Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+                    
+                    
+                    border: Border.all(color: Colors.grey),
+                 
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.red[400],
+
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                    
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                 Container(
+                  decoration: BoxDecoration(
+                    color: Colors.white,
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
+                    border: Border.all(color: Colors.grey),
+                   
+                  ),
+                  height: 22,
+                  width: 22,
+                ),
+
+                  Container(
+                  decoration: BoxDecoration(
+                    color: Colors.lightBlue[300],
+                    
                     border: Border.all(color: Colors.grey),
                    
                   ),
